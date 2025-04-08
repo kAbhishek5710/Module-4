@@ -19,4 +19,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Start the app
-ENTRYPOINT ["dotnet", "Module4.dll"]
+ENTRYPOINT ["dotnet", "Module 4.dll"]
