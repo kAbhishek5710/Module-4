@@ -1,0 +1,48 @@
+Basic Questions
+What is .NET Core Web API, and how is it different from ASP.NET MVC?
+How do you create a simple Web API project in .NET Core?
+What is the purpose of the Startup.cs file in a .NET Core Web API project?
+What is middleware in .NET Core, and how does it work?
+What are Controllers and Action Methods in .NET Core Web API?
+Routing & HTTP Methods
+How does routing work in .NET Core Web API?
+What is the difference between attribute routing and conventional routing?
+How do you define HTTP GET, POST, PUT, and DELETE methods in a controller?
+What are route constraints in .NET Core Web API?
+How can you set up default routes in a .NET Core Web API project?
+Model Binding & Validation
+What is model binding in .NET Core Web API?
+How do you validate models in .NET Core Web API?
+What are data annotations, and how do they help in validation?
+How do you return validation errors from an API?
+What is the FromBody, FromQuery, and FromRoute attribute?
+Dependency Injection (DI)
+What is dependency injection in .NET Core?
+How do you register services in .NET Core Web API?
+What are the differences between AddTransient, AddScoped, and AddSingleton?
+How do you inject a service into a controller?
+What is the IServiceCollection interface used for?
+Entity Framework Core & Database
+What is Entity Framework Core, and how does it work in .NET Core Web API?
+How do you configure a database connection in .NET Core Web API?
+How do you perform CRUD operations using EF Core?
+What are migrations in EF Core, and how do you apply them?
+How do you use DbContext in a Web API project?
+Authentication & Authorization
+How do you implement authentication in a .NET Core Web API?
+What is JWT authentication, and how does it work?
+How do you configure JWT authentication in .NET Core Web API?
+What is role-based authorization, and how do you implement it?
+How do you secure API endpoints using authentication and authorization?
+Middleware & Filters
+What is middleware, and how do you create custom middleware?
+What are action filters, and how do they work?
+How do you implement global exception handling in .NET Core Web API?
+How do you log API requests and responses using middleware?
+What are CORS policies, and how do you configure them in .NET Core Web API?
+Performance & Best Practices
+How do you implement caching in .NET Core Web API?
+What are async and await, and why should you use them in Web API?
+How do you optimize database queries using EF Core?
+What is API versioning, and how do you implement it?
+What are some best practices for designing RESTful APIs in .NET Core?
